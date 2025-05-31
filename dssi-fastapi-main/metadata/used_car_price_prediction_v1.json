@@ -1,0 +1,1 @@
+{"name": "used_car_price_prediction", "metrics": "r2_score:0.8380372955690679", "version": 1, "registration_date": "2025-01-23T12:08:26.898934", "model": "used_car_price_prediction_model_v1.joblib", "features": "used_car_price_prediction_features_v1.joblib"}
